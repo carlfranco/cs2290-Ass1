@@ -14,5 +14,5 @@
         ecall
     
     
-    string:  .asciz "Hello! It works!!!\n"
+    string:  .asciz "Hello world! It works!!!\n"
 
